@@ -1,4 +1,4 @@
-fake-cross-processing-
+fake-cross-processing
 ======================
 
 Fake Cross Processing example 
